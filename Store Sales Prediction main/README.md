@@ -30,6 +30,3 @@ MongoDB database has been used to store prediction dataset and for logging
 - kneed
 - scikit-learn
 - xgboost
-
-# Contributor
-- Sayan Saha
