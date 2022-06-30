@@ -11,14 +11,14 @@ anomalies and common patterns can be discovered.
 We have to build a solution that should able to predict the sales of the
 different stores of Big Mart according to the provided dataset.
 
-# Project Demo
-https://youtu.be/xHdqyFg2kOw
-
 # Application link
 https://store--sales.herokuapp.com/
 
+# Project Demo
+https://youtu.be/xHdqyFg2kOw
+
 # Documents
-HLD/LLD/Architecture/DPR : 
+HLD/LLD/Architecture/DPR : https://drive.google.com/drive/folders/1VNt07pCveUpvHPoMCHVtcvmTaQcEQ2Sa?usp=sharing
 
 # Database
 MongoDB database has been used to store prediction dataset and for logging
